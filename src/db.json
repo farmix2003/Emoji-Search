@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "question": "What is React.js?",
+      "options": [
+        { "id": 1, "text": "Open-source JavaScript back-end library", "isCorrect": false },
+        { "id": 2, "text": "JavaScript front-end library to create a database", "isCorrect": false },
+        { "id": 3, "text": "Free and open-source JavaScript front-end library", "isCorrect": true },
+        { "id": 4, "text": "None of the mentioned", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following acts as the input of a class-based component?",
+      "options": [
+        { "id": 1, "text": "Class", "isCorrect": false },
+        { "id": 2, "text": "Props", "isCorrect": true },
+        { "id": 3, "text": "Factory", "isCorrect": false },
+        { "id": 4, "text": "None of the mentioned", "isCorrect": false }
+      ]
+    },
+  
+    {
+      "id": 3,
+      "question": " React.js is written in which of the following language?",
+      "options": [
+        { "id": 1, "text": "C", "isCorrect": false },
+        { "id": 2, "text": "C++", "isCorrect": false },
+        { "id": 3, "text": "JavaScript ", "isCorrect": true },
+        { "id": 4, "text": "Java", "isCorrect": false }
+      ]
+    },
+   
+    {
+      "id": 4,
+      "question": "Is Javascript OOP language?",
+      "options": [
+        { "id": 1, "text": "It is like OOP, but not OOP", "isCorrect": false },
+        { "id": 2, "text": "No, it is not", "isCorrect": false },
+        { "id": 3, "text": " Yes, It is", "isCorrect": true},
+        { "id": 4, "text": "No answer is correct", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "  How many elements can a valid react component return?",
+      "options": [
+        { "id": 1, "text": " React doesn’t return element", "isCorrect": false },
+        { "id": 2, "text": "1 Element", "isCorrect": true },
+        { "id": 3, "text": "More than 1 element", "isCorrect": false},
+        { "id": 4, "text": "None of the mentioned", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following command is used to create create-react-app?",
+      "options": [
+        { "id": 1, "text": "npx create-react-app", "isCorrect": true },
+        { "id": 2, "text": "npm create -f create-react-app", "isCorrect": true },
+        { "id": 3, "text": "npm create -g create-react-app", "isCorrect": false},
+        { "id": 4, "text": " create -g create-react-app", "isCorrect": false }
+      ]
+    }
+   
+  ]
+  
